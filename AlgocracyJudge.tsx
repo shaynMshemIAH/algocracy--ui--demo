@@ -1,1 +1,0 @@
-// Placeholder: Will be replaced by exported React component
