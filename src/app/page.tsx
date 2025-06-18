@@ -1,5 +1,5 @@
 import React from 'react';
-import AlgocracyJudge from '../AlgocracyJudge';
+import AlgocracyJudge from '../AlgocracyJudge.tsx';
 
 export default function Page() {
   return (
