@@ -2,5 +2,5 @@
   "framework": "nextjs",
   "buildCommand": "npm run build",
   "outputDirectory": ".next",
-  "ignoreCommand": "exit 1"  // disables preview caching
+  "ignoreCommand": "exit 1" 
 }
