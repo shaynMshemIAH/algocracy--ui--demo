@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "baseURL": "./src",
+    "baseUrl": "./src",
     "paths": {
       "@judge": ["app/AlgocracyJudge"]
     },
